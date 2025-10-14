@@ -1,0 +1,44 @@
+# Model checkpoints and saved models
+saved_models/
+*.pt
+*.pth
+*.h5
+*.pkl
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Large datasets (if any)
+datasets/
+data/
+*.zip
+*.tar.gz
+*.rar
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+venv/
+env/
